@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 - **Scripter & Programmer**
     - I enjoy scripting and coding, especially with Lua.
 - **Game Development**
-    - Experience with UDK (Unreal Development Kit)
+    - Experience with Roblox
     - Interested in game engines and interactive experiences
 - **Fire Fighting Enthusiast**
     - Special interest in fire fighting technology, simulations, and emergency response systems
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 ## 🌱 Currently Learning
 
 - Expanding my knowledge in Lua scripting
-- Exploring more advanced UDK features
+- Exploring more advanced Simulations of smoke and fire
 - Learning about fire fighting and emergency response tech
 
 ## 🤔 I’d Like to Collaborate On
